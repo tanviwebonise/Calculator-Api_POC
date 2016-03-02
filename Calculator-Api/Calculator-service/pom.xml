@@ -9,11 +9,11 @@
 
     <artifactId>Calculator-service</artifactId>
 
-    <scm>
+   <!-- <scm>
         <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api/Calculator-service</developerConnection>
       <tag>1.0</tag>
   </scm>
-
+-->
     <build>
         <plugins>
             <plugin>

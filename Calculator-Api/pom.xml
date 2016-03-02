@@ -5,15 +5,14 @@
     <groupId>com.webonise</groupId>
     <artifactId>Calculator-Api</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <modules>
         <module>Calculator-client</module>
         <module>Calculator-service</module>
     </modules>
     <scm>
-        <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api</developerConnection>
-    <tag>1.0</tag>
+        <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/Calculator-Api</developerConnection>
   </scm>
 
     <build>
