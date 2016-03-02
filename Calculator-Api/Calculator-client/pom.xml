@@ -10,7 +10,7 @@
     <artifactId>Calculator-client</artifactId>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api/Calculator-client/</developerConnection>
+        <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api/Calculator-client</developerConnection>
       <tag>1.1</tag>
   </scm>
 

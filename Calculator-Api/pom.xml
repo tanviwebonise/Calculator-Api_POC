@@ -12,7 +12,7 @@
         <module>Calculator-service</module>
     </modules>
     <scm>
-        <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api/</developerConnection>
+        <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api</developerConnection>
       <tag>1.1</tag>
   </scm>
 
