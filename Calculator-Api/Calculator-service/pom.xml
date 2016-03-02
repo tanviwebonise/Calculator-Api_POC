@@ -3,18 +3,22 @@
     <parent>
         <artifactId>Calculator-Api</artifactId>
         <groupId>com.webonise</groupId>
-        <version>1.0</version>
+        <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+
+    <groupId>${project.parent.groupId}</groupId>
     <artifactId>Calculator-service</artifactId>
+    <version>${project.parent.version}</version>
+
 
    <!-- <scm>
         <developerConnection>scm:git:https://github.com/tanviwebonise/Calculator-Api_POC/tree/develop/Calculator-Api/Calculator-service</developerConnection>
       <tag>1.0</tag>
   </scm>
 -->
-    <build>
+    <!--<build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -22,13 +26,13 @@
                 <version>2.5.3</version>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 
     <dependencies>
         <dependency>
             <groupId>com.webonise</groupId>
             <artifactId>Calculator-client</artifactId>
-            <version>1.0</version>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
